@@ -6,6 +6,7 @@ body{
 .Sher{
     font-size: xx-large;
     text-align: center;
+    background-color: black;
 }
     .kotak{ 
         color: rgb(253, 252, 252); 
@@ -14,7 +15,7 @@ body{
     } 
     .Danat{
         font-size: x-large;
-        color: white;
+        color: rgb(255, 255, 255);
            text-align: center;
            width: 100;
            min-height: 100;
@@ -32,7 +33,7 @@ body{
         } 
         .Temir{
             font-size: x-large;
-            color: white;
+            color: rgb(240, 18, 18);
             text-align: center;
             width: 100;
             min-height: 100;
