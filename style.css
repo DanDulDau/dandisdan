@@ -1,0 +1,80 @@
+body{
+    background: url(https://media.istockphoto.com/photos/black-stone-wall-background-mosaic-of-bricks-in-retro-style-modern-picture-id1173793122?k=20&m=1173793122&s=170667a&w=0&h=Fg461o_bLFrzNw6YoqT7XTf8pZFyWaAX3KXclJAUazQ=);
+}
+
+
+.Sher{
+    font-size: xx-large;
+    text-align: center;
+}
+    .kotak{ 
+        color: rgb(253, 252, 252); 
+        text-align: center; 
+        margin-top: 150px; 
+    } 
+    .Danat{
+        font-size: x-large;
+        color: white;
+           text-align: center;
+           width: 100;
+           min-height: 100;
+           background-position: center;
+           position: relative;
+           margin-top: 0px;
+           margin-bottom: 200px;
+           padding-bottom: 50px;
+           padding-top: 30px;
+    }
+        h1{ 
+            color: rgb(253, 250, 250); 
+            text-align: center; 
+            margin-top: 150px; 
+        } 
+        .Temir{
+            font-size: x-large;
+            color: white;
+            text-align: center;
+            width: 100;
+            min-height: 100;
+            background-position: center;
+            position: relative;
+            margin-top: 0px;
+            margin-bottom: 200px;
+            padding-bottom: 50px;
+            padding-top: 30px;
+        }
+            h1{ 
+                color: rgb(245, 241, 241); 
+                text-align: center; 
+                margin-top: 150px; 
+            } 
+            .Dariya{
+                width: 100;
+                min-height: 100;
+                background-position: center;
+                position: relative;
+                margin-top: 300px;
+                margin-bottom: 200px;
+                padding-bottom: 50px;
+                padding-top: 30px;
+            }
+
+            .poser{
+                margin-left: 1500px;
+
+            }
+            .naiman{
+                margin-right: 1500px;
+            }
+.Abylay{
+    padding-bottom: 20px;
+}  
+.Edik{
+    text-align: left;
+
+
+}
+.Zhannur{
+    font-size: xx-large;
+}
+}
